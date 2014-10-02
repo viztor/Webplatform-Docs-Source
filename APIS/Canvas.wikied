@@ -1,1 +1,22 @@
-Status: Ready to Use
+Status:
+  Ready to Use
+
+
+Standardization Status:
+  W3C Candidate Recommandation
+
+Article Summary:
+  Allows applications to render pixel-based graphics within a '''canvas''' element using a two-dimensional graphics ''context''.
+  
+Query:
+  [[Category:Canvas]][[Category:API_Objects]]
+  
+Topic clusters: 
+  Canvas
+
+Topics:
+  API Canvas
+  
+Source:
+  MSDN (http://msdn.microsoft.com/en-us/library/ie/hh828809%28v=vs.85%29.aspx Windows Internet Explorer API reference)
+  
